@@ -1,0 +1,28 @@
+# Two Fer
+
+`Two-fer` is short for two for one. One for you and one for me.
+
+Given a name, return a string with this message (where X is the given name):
+
+```text
+One for X, one for me.
+```
+
+However, if the name is missing, return the string:
+
+```text
+One for you, one for me.
+```
+
+Here are some examples:
+
+|Name    |String to return
+|:-------|:------------------
+|Alice   |One for Alice, one for me.
+|Bob     |One for Bob, one for me.
+|        |One for you, one for me.
+|Zaphod  |One for Zaphod, one for me.
+
+## Source
+
+[https://github.com/exercism/problem-specifications/issues/757](https://github.com/exercism/problem-specifications/issues/757)

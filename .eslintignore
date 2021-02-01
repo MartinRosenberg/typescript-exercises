@@ -1,0 +1,7 @@
+bin/*
+dist/*
+docs/*
+tmp/*
+
+babel.config.js
+jest.config.js
