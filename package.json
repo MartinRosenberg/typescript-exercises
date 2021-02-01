@@ -1,0 +1,10 @@
+{
+  "name": "typescript-exercises",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Martin Rosenberg",
+    "email": "Martin.B.Rosenberg@gmail.com",
+    "url": "https://martinbrosenberg.com"
+  }
+}
