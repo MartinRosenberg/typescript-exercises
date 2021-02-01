@@ -70,6 +70,7 @@
 	"compileOnSave": true,
 	"exclude": [
 		".yarn/",
-		"dist/"
+		"dist/",
+		"**/*.test.ts"
 	]
 }
