@@ -1,6 +1,6 @@
 # TypeScript Exercises
 
-[Scala](https://github.com/microsoft/TypeScript) solutions to various coding
+[TypeScript](https://github.com/microsoft/TypeScript) solutions to various coding
 exercises, organized into packages by origin. Some may have been specifically
 intended to be solved using TypeScript, but most will be language-agnostic.
 
