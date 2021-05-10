@@ -6,4 +6,4 @@ const accumulate = <A, B>(arr: A[], transform: (elem: A) => B): B[] => {
 	return res
 }
 
-export default accumulate
+export { accumulate }

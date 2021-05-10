@@ -14,7 +14,7 @@ module.exports = {
 	bracketSpacing: true,
 	quoteProps: "consistent",
 	semi: false,
-	singleQuote: true,
+	singleQuote: false,
 	trailingComma: "all",
 
 	// React

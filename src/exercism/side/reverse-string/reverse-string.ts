@@ -1,3 +1,3 @@
-export default {
-	reverse: (s: string) => [...s].reverse().join('')
-}
+const reverse = (s: string): string => [...s].reverse().join("")
+
+export { reverse }

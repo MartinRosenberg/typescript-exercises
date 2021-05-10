@@ -1,3 +1,3 @@
-export default {
-	hello: (name: string = "World") => `Hello, ${name}!`
-}
+const hello = (name: string = "World"): string => `Hello, ${name}!`
+
+export { hello }
