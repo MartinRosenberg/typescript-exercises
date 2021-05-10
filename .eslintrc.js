@@ -99,5 +99,7 @@ module.exports = {
 		// the start of a line when called for by brackets, even if unnecessary
 		"no-extra-semi": OFF,
 		"@typescript-eslint/no-extra-semi": OFF,
+
+		"no-constant-condition": WARN,
 	},
 }
