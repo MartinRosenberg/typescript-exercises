@@ -101,5 +101,6 @@ module.exports = {
 		"@typescript-eslint/no-extra-semi": OFF,
 
 		"no-constant-condition": WARN,
+		"@typescript-eslint/ban-ts-comment": OFF,
 	},
 }
